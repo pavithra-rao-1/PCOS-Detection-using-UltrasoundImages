@@ -84,7 +84,8 @@
 - Webapp:
 
   - Case "PCOS Positive":
-    ![Screenshot 1](./screenshots/screenshot1.png)
+    ![Screenshot 1](https://github.com/user-attachments/assets/e5ac0e2c-11bb-4603-9464-20347f5f505d)
 
   - Case "PCOS Negative":
-    ![Screenshot 2](./screenshots/screenshot2.png)
+    ![Screenshot 2](https://github.com/user-attachments/assets/d5b93a3d-e6d2-4dfc-9ab8-11050e33ba9a)
+
